@@ -1,0 +1,17 @@
+Commit		= menyimpan ke dalam repository
+pull		= download
+push		= upload
+clone		=
+stash		=
+rebase		=
+checkout	=
+fetch		=
+
+
+git_bash
+git init	= inisialisasi > membuat sebuah repository lokal
+git add *	= memasukan seluruh file termasuk folder ke dalam repository
+
+ex :
+git commit -m &quot; commit pertama, versi 1&quot;
+
